@@ -84,7 +84,7 @@ This course follows a flipped-classroom model, wherein the majority of the conte
 |Wed       |29 Mar |Maj Freels                         |TBD              |      |
 |Mon       |03 Apr |N/A                                |No Class         |Science of Test|
 |Wed       |05 Apr |N/A                                |No Class         |Science of Test|
-|Mon       |10 Apr |Corey Booker & Austin Troya        |Student Research |Linear Regression / Information Architectures|
+|Mon       |10 Apr |Corey Booker <br/> Austin Troya    |Student Research |Linear Regression <br/> Information Architectures|
 |Wed       |12 Apr |Timothy Allen & Samuel Clark       |Student Research |Particle Swarm / Monte Carlo      |
 |Mon       |17 Apr |John McCrea & Michael Felten       |Student Research |Max Likelihood Estimation / Genetic Algorithm w/ particle swarm      |
 |Wed       |19 Apr |Matthew Davis & Majed Altowairqi   |Student Research |DOE / Linear Regression|
