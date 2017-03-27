@@ -44,7 +44,7 @@ A research methods course is foundational for any graduate program to help stude
 
 ## Additional Resources
 
-- [DataCamp](https://www.datacamp.com/) recently decided to give free access to their content for academic institutions (including premium content).  I've established a DataCamp account for this class to give interested students free access for 6-months.   
+- [__DataCamp__](https://www.datacamp.com/) recently decided to give free access to their content for academic institutions (including premium content).  I've established a DataCamp group for this class to give interested students free access for 6-months.   
 	 
 - [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
 
