@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Project Overview
 
-For this assignment you'll create a presentation describing your thesis research plan. Many students don't have a clear understanding of what they're trying to accomplish with their theses. Therefore, the intent of this project is to help you focus your research efforts on a path for success.  Use whatever resources you need to complete this assignment.
+For this assignment you'll create a 30-minute presentation describing your thesis research plan. Many students don't have a clear understanding of what they're trying to accomplish with their theses. Therefore, the intent of this project is to help you focus your research efforts on a path for success.  Use whatever resources you need to complete this assignment.
 
 ## Presentation format
 

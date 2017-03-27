@@ -85,14 +85,14 @@ This course follows a flipped-classroom model, wherein the majority of the conte
 |Mon       |03 Apr |N/A                                |No Class         |Science of Test|
 |Wed       |05 Apr |N/A                                |No Class         |Science of Test|
 |Mon       |10 Apr |Corey Booker <br/> Austin Troya    |Student Research |Linear Regression <br/> Information Architectures|
-|Wed       |12 Apr |Timothy Allen & Samuel Clark       |Student Research |Particle Swarm / Monte Carlo      |
-|Mon       |17 Apr |John McCrea & Michael Felten       |Student Research |Max Likelihood Estimation / Genetic Algorithm w/ particle swarm      |
-|Wed       |19 Apr |Matthew Davis & Majed Altowairqi   |Student Research |DOE / Linear Regression|
-|Mon       |24 Apr |Philip Ramsey & Christopher Edlund |Student Research |Statistical Censoring / ANOVA      |
-|Wed       |26 Apr |Jared Erickson & Martin Span       |Student Research |Regression Trees / Cyber analysis      |
-|Mon       |01 May |Mark Bateman & Kyle Flenar         |Student Research |Genetic Algorithm / TBD     |
-|Wed       |03 May |David Buehler & Daniel Cipera      |Student Research |Monte Carlo / Neural Networks      |
-|Mon       |08 May |Joshua Mills & Michael Kaniut      |Student Research |Delphi Method / Genetic Algorithm |
+|Wed       |12 Apr |Timothy Allen <br/> Samuel Clark       |Student Research |Particle Swarm<br/>Monte Carlo      |
+|Mon       |17 Apr |John McCrea <br/> Michael Felten       |Student Research |Max Likelihood Estimation<br/>Genetic Algorithm w/ particle swarm      |
+|Wed       |19 Apr |Matthew Davis <br/> Majed Altowairqi   |Student Research |DOE<br/>Linear Regression|
+|Mon       |24 Apr |Philip Ramsey <br/> Christopher Edlund |Student Research |Statistical Censoring<br/>ANOVA      |
+|Wed       |26 Apr |Jared Erickson <br/> Martin Span       |Student Research |Regression Trees<br/>Cyber analysis      |
+|Mon       |01 May |Mark Bateman <br/> Kyle Flenar         |Student Research |Genetic Algorithm<br/>TBD     |
+|Wed       |03 May |David Buehler <br/> Daniel Cipera      |Student Research |Monte Carlo<br/>Neural Networks      |
+|Mon       |08 May |Joshua Mills <br/> Michael Kaniut      |Student Research |Delphi Method<br/>Genetic Algorithm |
 |Wed       |10 May |Maj Freels                         |TBD              |      |
 |Mon       |15 May |Maj Freels                         |TBD              |      |
 |Wed       |17 May |Maj Freels                         |TBD              |      |
