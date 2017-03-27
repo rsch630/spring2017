@@ -78,25 +78,25 @@ This course follows a flipped-classroom model, wherein the majority of the conte
 
 
 
-Class Day   Date     Presenter                             Topic              Notes 
-----------  -------  ------------------------------------  -----------------  ------
-Mon         27 Mar   Maj Freels                            Course Intro                      
-Wed         29 Mar   Maj Freels                            TBD                      
-Mon         03 Apr   N/A                                   No Class           Science of Test      
-Wed         05 Apr   N/A                                   No Class           Science of Test      
-Mon         10 Apr   Philip Ramsey & John McCrea           Student Research         
-Wed         12 Apr   Jared Erickson & Martin Span          Student Research         
-Mon         17 Apr   Christopher Edlund & Michael Felten   Student Research         
-Wed         19 Apr   Austin Troya & Daniel Cipera          Student Research         
-Mon         24 Apr   Matthew Davis & Michael Kaniut        Student Research         
-Wed         26 Apr   Joshua Mills & Majed Altowairqi       Student Research         
-Mon         01 May   Samuel Clark & Kyle Flenar            Student Research         
-Wed         03 May   Timothy Allen & Mark Bateman          Student Research         
-Mon         08 May   Corey Booker & David Buehler          Student Research         
-Wed         10 May   Maj Freels                            TBD                      
-Mon         15 May   Maj Freels                            TBD                      
-Wed         17 May   Maj Freels                            TBD                      
-Mon         22 May   Maj Freels                            TBD                      
-Wed         24 May   Maj Freels                            TBD                      
-Mon         29 May   N/A                                   No Class           Memorial Day
-Wed         31 May   Maj Freels                            TBD             
+|Class Day |Date   |Presenter                          |Topic            |Notes |
+|:---------|:------|:----------------------------------|:----------------|:-----|
+|Mon       |27 Mar |Maj Freels                         |Course Overview  |      |
+|Wed       |29 Mar |Maj Freels                         |TBD              |      |
+|Mon       |03 Apr |N/A                                |No Class         |Science of Test|
+|Wed       |05 Apr |N/A                                |No Class         |Science of Test|
+|Mon       |10 Apr |Corey Booker & Austin Troya        |Student Research |      |
+|Wed       |12 Apr |Timothy Allen & Samuel Clark       |Student Research |      |
+|Mon       |17 Apr |John McCrea & Michael Felten       |Student Research |      |
+|Wed       |19 Apr |Matthew Davis & Majed Altowairqi   |Student Research |      |
+|Mon       |24 Apr |Philip Ramsey & Christopher Edlund |Student Research |      |
+|Wed       |26 Apr |Jared Erickson & Martin Span       |Student Research |      |
+|Mon       |01 May |Mark Bateman & Kyle Flenar         |Student Research |      |
+|Wed       |03 May |David Buehler & Daniel Cipera      |Student Research |      |
+|Mon       |08 May |Joshua Mills & Michael Kaniut      |Student Research |      |
+|Wed       |10 May |Maj Freels                         |TBD              |      |
+|Mon       |15 May |Maj Freels                         |TBD              |      |
+|Wed       |17 May |Maj Freels                         |TBD              |      |
+|Mon       |22 May |Maj Freels                         |TBD              |      |
+|Wed       |24 May |Maj Freels                         |TBD              |      |
+|Mon       |29 May |N/A                                |No Class         |Memorial Day|
+|Wed       |31 May |Maj Freels                         |Course Review    |      |
