@@ -1,0 +1,95 @@
+---
+title: "RSCH 630 - Thesis Presentation"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Project Overview
+
+For this assignment you'll create a presentation describing your thesis research plan. Many students don't have a clear understanding of what they're trying to accomplish with their theses. Therefore, the intent of this project is to help you focus your research efforts on a path for success.  Use whatever resources you need to complete this assignment.
+
+## Presentation format
+
+Typically, presentations like this begin by discussing the project background.  I've found that this approach doesn't help students gain a clearer focus.  Rather, this approach emphasizes the application of the research - after the work has been completed!  This presentation format cuts through the crap and gets to the meat of your work.
+
+Presentations will use the AFIT thesis defense template and will follow the structure outlined below.
+
+### Title slide
+
+### Conclusions & recommendations (1-2 slides)
+
+In this slides you will begin with the end in mind by discussing the end result(s) you'll be working to achieve in your thesis research.  Key things to consider:
+
+- How can your results be conveyed as clearly as possible?
+
+- Are your results measureable?
+
+- How will you determine if/when success has been achieved?
+
+### Data (1-3 slides)
+
+Discuss the data you'll use in your research.  Key questions to answer:
+
+- How is your data structured? (If you don't yet have data, discuss the structure of the data you expect to obtain)  
+
+- Where will you be getting your data?  
+
+- What's your plan if you don't receive the data?
+
+- If you're simulating data, what is the structure of the data to be simulated and how do you plan to simulate it?
+
+### Proposed methodology (1-2 slides)
+
+List one or more analytical methods that are appropriate for reaching the desired result(s) from your data?  Key questions to answer:
+
+- Why did you select this method?
+
+- What issues might you encounter in using this method?
+
+### Project background (1-2 slides)
+
+Provide some background on your chosen research project. Key questions to answer: 
+
+- Why is this research important?
+
+- To whom is the project important? 
+
+- What prior work has been done in this area? 
+
+- What benefits could be realized from your research?
+
+### Detailed Research Method
+
+In these slides you'll choose an analytical technique from the list below and provide a detailed discussion for the class.  Your discussion should include: 
+
+- The purpose of the method
+
+- The assumptions on which the method is based
+
+- An example to walk through (can be from a textbook or found online) 
+
+#### Suggested methods
+
+1.  logistic regression
+2.  linear regression
+3.  Space filling designs (DOE)
+4.  full factorial designs (DOE)
+4.  fractional factorial designs (DOE)
+5.  central composite designs 
+6.  hierarchical clustering
+7.  k-means clustering
+8.  neural networks
+9.  classification trees 
+10. regression trees
+11. maximum likelihood estimation
+12. statistical censoring
+13. Monte Carlo simulation
+14. Genetic algorithm
+15. analysis of variance (ANOVA)
+16. Natural language processing
+17. Auto-regressive iterative moving average (ARIMA)
+18. Stochastic Processes
+

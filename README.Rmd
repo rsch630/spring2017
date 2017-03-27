@@ -1,5 +1,10 @@
-# Welcome to RSCH 630!
-Spring Quarter 2017  
+---
+title: 'Welcome to RSCH 630!'
+date: 'Spring Quarter 2017'
+output: 
+  html_document:
+    keep_md: yes
+---
 
 ## Course Overview
 
@@ -53,7 +58,14 @@ A research methods course is foundational for any graduate program to help stude
 
 ## Grades
 
-
+```{r, echo=FALSE, eval=FALSE}
+`Deliverable` <- c("Thesis Presentation",
+                   "Research Method Presentation",
+                   "Thesis Outline", 
+                   "Final Exam")
+`Grade Weight` <- rep('25%', 4)
+knitr::kable(data.frame(`Deliverable`, `Grade Weight`))
+```
 
 |Deliverable                  |Grade Weight |
 |:----------------------------|:------------|
@@ -76,7 +88,9 @@ This course follows a flipped-classroom model, wherein the majority of the conte
 
 ## Tentative course schedule (subject to change)
 
-
+```{r, echo=FALSE, results='asis', eval=FALSE}
+source('rsch-630-schedule.R', print.eval = T)
+```
 
 Class Day   Date     Presenter                             Topic              Notes 
 ----------  -------  ------------------------------------  -----------------  ------
