@@ -84,15 +84,15 @@ This course follows a flipped-classroom model, wherein the majority of the conte
 |Wed       |29 Mar |Maj Freels                         |TBD              |      |
 |Mon       |03 Apr |N/A                                |No Class         |Science of Test|
 |Wed       |05 Apr |N/A                                |No Class         |Science of Test|
-|Mon       |10 Apr |Corey Booker & Austin Troya        |Student Research |      |
-|Wed       |12 Apr |Timothy Allen & Samuel Clark       |Student Research |      |
-|Mon       |17 Apr |John McCrea & Michael Felten       |Student Research |      |
-|Wed       |19 Apr |Matthew Davis & Majed Altowairqi   |Student Research |      |
-|Mon       |24 Apr |Philip Ramsey & Christopher Edlund |Student Research |      |
-|Wed       |26 Apr |Jared Erickson & Martin Span       |Student Research |      |
-|Mon       |01 May |Mark Bateman & Kyle Flenar         |Student Research |      |
-|Wed       |03 May |David Buehler & Daniel Cipera      |Student Research |      |
-|Mon       |08 May |Joshua Mills & Michael Kaniut      |Student Research |      |
+|Mon       |10 Apr |Corey Booker & Austin Troya        |Student Research |Linear Regression / Information Architectures|
+|Wed       |12 Apr |Timothy Allen & Samuel Clark       |Student Research |Particle Swarm / Monte Carlo      |
+|Mon       |17 Apr |John McCrea & Michael Felten       |Student Research |Max Likelihood Estimation / Genetic Algorithm w/ particle swarm      |
+|Wed       |19 Apr |Matthew Davis & Majed Altowairqi   |Student Research |DOE / Linear Regression|
+|Mon       |24 Apr |Philip Ramsey & Christopher Edlund |Student Research |Statistical Censoring / ANOVA      |
+|Wed       |26 Apr |Jared Erickson & Martin Span       |Student Research |Regression Trees / Cyber analysis      |
+|Mon       |01 May |Mark Bateman & Kyle Flenar         |Student Research |Genetic Algorithm / TBD     |
+|Wed       |03 May |David Buehler & Daniel Cipera      |Student Research |Monte Carlo / Neural Networks      |
+|Mon       |08 May |Joshua Mills & Michael Kaniut      |Student Research |Delphi Method / Genetic Algorithm |
 |Wed       |10 May |Maj Freels                         |TBD              |      |
 |Mon       |15 May |Maj Freels                         |TBD              |      |
 |Wed       |17 May |Maj Freels                         |TBD              |      |
