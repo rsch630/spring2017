@@ -1,0 +1,106 @@
+---
+title: "RSCH 630 - Thesis Outline Project"
+subtitle: "Due: Monday, 1 June 2017"
+output: 
+  html_document:
+    df_print: kable
+    toc: true
+    toc_float: true
+---
+
+<style type="text/css">
+p  { font-size: 1.25em; }
+h2 {border-bottom: 1px solid black; padding-top: 10px; }
+.nav-tabs > li > a { 
+font-size: 1.2em; 
+font-weight: bold;
+text-transform: uppercase; }
+li { font-size: 1.25em; }
+</style>
+
+## Project Overview
+
+The purpose of this project is to help give you a head start on preparing your final thesis document.  You will create an expanded outline of your thesis in which you will pre-populate content in the sections specified below.
+
+Your outline must follow the formatting guidelines provided in the current AFIT Style Guide.  I will grade your outline as if I were the thesis processing committee reviewing your document for final approval.  Listed below are the content requirements for each section of your outline.  Note that each section contains an 'Overview' tab and a 'What to include in your outline' tab.
+
+## Prefatory Sections {.tabset}
+
+### Overview
+
+Every university implements its own formatting style and expects every thesis and dissertation it produces to follow that style.  AFIT maintains a style guide to ensure that the documents you produce reflect a consistent and professional image. 
+
+Is it tedious to ensure that each of these rules are followed?...YES! However, these rules are in place fora reason and should be adhered to.  Most students get tripped up with one or more of the formatting details related to the prefatory sections.  Please read the style guide carefully!
+
+### What to include in your outline
+
+The prefatory section of your outline should include the following items:
+
+- The cover page
+- The title page
+- The acknowledgement (optional)
+- Abstract
+- Table of Contents
+- List of Figures
+- List of Tables
+
+Note 1: the cover page and title page include a distribution statement indicating who can access the the document.  Distribution Statement A indicates that the document contains no information requiring classification and may be released to the public.  Other distribution statements (B - F) denote who can access the document and who cannot.  These distribution statements do not apply to classified theses, which have their own access procedures.  Some of you may already know that your thesis will not be Distribution A.  If this is the case, indicate what distribution statement you anticipate using?  You do not have to provide a reason or name a releasing authority.
+
+Note 2: Distribution B-F theses require slightly more work that Distribution A theses.  Since not everyone will use a distribution statement other than A (and because the purpose of this project is benefit you), it's not fair for me to grade this too closely.
+
+Note 3: Somewhere in you document you should have at least one figure (and caption) and on table (and caption).  These artifacts should be referenced in the appropriate list. 
+
+
+## Introduction {.tabset}
+
+### Overview
+
+A good introduction forces you to develop a clear understanding of your work and prepares your reader for what they're about to read. If you have seen the AFIT thesis template you'll see that the introduction chapter includes nine subsections (nine!).  Not all of these subsection have to be used!  The purpose behind having so many subsections is to give you multiple ways to convey the following ideas: 
+
+- Why is this work important?
+- To whom might this work be important?
+- What specific problem is this research attempting to solve?
+- On what assumptions/limitations is your research based?
+- Given the specific problem and the limiting assumptions, how did you approach this?
+
+You should choose subsections that make it easy for you to convey this information.  I personally think that including all of these subsections make the introduction choppy and hard to read.  However, if your advisor prefers that you include all of these subsections, sorry dude.
+
+### What to include in your outline
+
+For your outline you should provide content for the following subsections
+
+- General Issue/Background (1 Para)
+- Problem Statement (1 Para)
+- Research objectives (1 Para)
+- Investigative Questions (2 Questions)
+- Methodology overview (1 Para)
+
+## Literature Review {.tabset}
+
+### Overview
+
+The literature review highlights the resources that you used to help complete your research. If you used references from distinct areas of research (i.e. space system architectures and design of experiments), your literature review should be broken up into sections according to these distinct areas.  Ideally, your literature review should focus on the specific techniques used in the research.  For example, if you used fractional factorial designs (a member of the design of experiments family of methods) your literature review you focus on fractional factorial designs.  You do not need to provide a detailed history on the development of design of experiments.
+
+### What to include in your outline
+
+The literature chapter in your thesis outline should include three paragraphs.  The first paragraph provides an overview of the research areas to be discussed in the rest of the chapter.  The next two paragraphs provide detailed discussions on the research areas discussed in the first paragraph.  Paragraphs 2 and 3 should include at least one citation for a reference inlcuded in the bibliography.  
+
+## Bibliography {.tabset}
+
+### Overview
+
+You should already know what a bibliography is.
+
+### What to include in your outline
+
+Include a bibliography in which you provide the full citations for the works that you cited previously.  Ensure that your bibliographic style matches the citation style.   
+
+## SF 298 {.tabset}
+
+### Overview
+
+The SF 298 is a collection point for information used to upload your thesis document to DTIC (Distribution A).  The information is also used track metrics on what organizations sponsor AFIT theses.  No element of an AFIT thesis generates more errors than the SF298.  Most of these errors result when you make a change to the document but don't make the change to the form. 
+
+### What to include in your outline
+
+Fill out the form to the best of your ability.  IMPORTANT! Recently, there has been a renewed focus on ensuring that each thesis has a sponsor.  You (your advisor really) should make every effort to ensure that a sponsor is identified.  A sponsor isn't just an organization that provides money, but is any organization that helps helped get you data or has been instrumental in completing the work.  
